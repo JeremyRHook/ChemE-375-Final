@@ -1,14 +1,3 @@
-# ChemE 375 Final Exam (Wi2020)
-
-The final exam consists of problems to be solved using Excel (Problems 1-3), Python (Problems 4-5) and Aspen (Problem 6). You should submit accompanying program files (Excel, Python, and Aspen) with your solutions. You are not required to submit Aspen files for P6, but can instead submit an Excel spreadsheet with the data copied from your simulation. The exam can be completed outside of class. You will have 24 hours to complete the exam from Wednesday, March 18 11:00 AM to Thursday, March 19 11:00 AM (but the exam should by no means require 24 hours to complete!).
-
-You may use all course materials to complete the exam, including recorded lectures, homeworks, and notes you may have taken. You are also free to use Google and Stack Overflow for help as well. The exam is essentially open-everything **except** open neighbor. Do **not** communicate with classmates or others, whether by phone, email, social media, or in-person, or otherwise. You will be required to initial an honor statement at the end of the exam certifying you have abided by these rules.
-
-**Please be very careful in annotating your work**. In Jupyter notebooks, you can provide commentary or give written responses to questions in Markdown cells. You can also comment directly in your code using Python comments (starting lines with a # turns it into a comment). For Excel or Aspen problems, you can use text boxes. You can also directly write in the `README.md` file. **The more comments you provide, the easier it will be for me to follow your work.*
-
-**Make sure to type your name at the bottom of the README file before submitting, signifying that you abided by the rules of the exam.**
-
-
 # Excel
 
 ## Problem 1
